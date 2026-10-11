@@ -1,0 +1,19 @@
+# Entorno virtual
+.venv/
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+
+# Archivos locales de MLflow
+mlruns/
+mlflow.db
+
+# Resultados generados por el script
+metrics.txt
+
+# Archivos del sistema macOS
+.DS_Store
+
+# Configuraciones locales de VS Code
+.vscode/
